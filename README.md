@@ -18,3 +18,6 @@ Kör
 
 
    sudo mysql -u root
+
+   grant all privileges on *.* to 'username'@'localhost' identified by 'password';
+   
